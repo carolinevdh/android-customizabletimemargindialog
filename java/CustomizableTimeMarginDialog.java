@@ -39,11 +39,11 @@ public class CustomizableTimeMarginDialog
     private int minHour, minMinutes;
 
 
-    public MinimumTimeMarginDialog(Context context) {
+    public CustomizableTimeMarginDialog(Context context) {
         super(context);
     }
 
-    public MinimumTimeMarginDialog(Context context, int theme) {
+    public CustomizableTimeMarginDialog(Context context, int theme) {
         super(context, theme);
     }
 
