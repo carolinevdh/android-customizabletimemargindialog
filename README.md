@@ -6,7 +6,8 @@ Android Dialog that lets the user pick a time or a timerange
 ###Features
  - let users pick a time range, e.g. "between 17:15 and 18:45"
  - extends AlertDialog.Builder
-
+ - get selected time and margin in instance of `CustomizableTimeMarginDialog.OnTimeMarginSetListener`
+ 
 ###Customizable
  - minimum time, dialog doesn't let user select a time (hh:mm) before said time
  - custom time steps (e.g. 0, 5, 10, 15, ..., 55 minutes) for hours, minutes or margin minutes
