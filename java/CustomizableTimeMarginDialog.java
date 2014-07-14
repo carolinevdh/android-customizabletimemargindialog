@@ -15,7 +15,7 @@ import mynamespace.R;
  * AlertDialog.Builder for a TimePicker dialog that supports
  * a margin, minimum time and custom time increases
  */
-public class MinimumTimeMarginDialog 
+public class CustomizableTimeMarginDialog 
     extends AlertDialog.Builder implements NumberPicker.OnValueChangeListener{
 
     /**
