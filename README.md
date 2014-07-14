@@ -9,7 +9,7 @@ Android Dialog that lets the user pick a time or a timerange
 
 ###Customizable
  - minimum time, dialog doesn't let user select a time (hh:mm) before said time
- - custom time steps (e.g. 0, 5, 15, ..., 55 minutes) for hours, minutes or margin minutes
+ - custom time steps (e.g. 0, 5, 10, 15, ..., 55 minutes) for hours, minutes or margin minutes
 
 ###Example Usage
 
